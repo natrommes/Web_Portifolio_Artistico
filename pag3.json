@@ -1,0 +1,359 @@
+[
+{
+    "id": "0",
+    "categoria":"Técnicas Mistas",
+    "title": "Desvio para o Vermelho",
+    "anoObra": "2020",
+    "alreadyRead": "true",
+    "imageUrl": "Imagens/Tecnicas_Mistas_2020_01.webp"
+    
+},
+{
+    "id": "1",
+    "categoria": "Técnicas Mistas",
+    "title": "Historiografia do Rei",
+    "anoObra": "2019",
+    "alreadyRead": "false",
+    "imageUrl": "Imagens/Tecnicas_Mistas_2019_02.webp"
+},
+{
+    "id": "2",
+    "categoria": "Técnicas Mistas",
+    "title": "Recorte de Cor",
+    "anoObra": "2018",
+    "alreadyRead": "true",
+    "imageUrl": "Imagens/Tecnicas_Mistas_2019_01.webp"
+},
+{
+    "id": "3",
+    "categoria": "Técnicas Mistas",
+    "title": "São João I",
+    "anoObra": "2018",
+    "alreadyRead": "true",
+    "imageUrl": "Imagens/Tecnicas_Mistas_2018_02.webp"
+},
+{
+    "id": "4",
+    "categoria": "Técnicas Mistas",
+    "title": "Rede de Sonhos",
+    "anoObra": "2018",
+    "alreadyRead": "false",
+    "imageUrl": "Imagens/Tecnicas_Mistas_2018_01.webp"
+},
+{
+    "id": "5",
+    "categoria": "Técnicas Mistas",
+    "title": "Breve Trechos II",
+    "anoObra": "2017",
+    "alreadyRead": "false",
+    "imageUrl": "Imagens/Tecnicas_Mistas_2017_08.webp"
+},
+{
+    "id": "6",
+    "categoria": "Técnicas Mistas",
+    "title": "Breve Trechos I",
+    "anoObra": "2017",
+    "alreadyRead": "false",
+    "imageUrl": "Imagens/Tecnicas_Mistas_2017_07.webp"
+},
+{
+    "id": "7",
+    "categoria":"Técnicas Mistas",
+    "title": "Pausas do Pensemento",
+    "anoObra": "2017",
+    "alreadyRead": "false",
+    "imageUrl": "Imagens/Tecnicas_Mistas_2017_06.webp"
+},
+{
+    "id": "8",
+    "categoria":"Técnicas Mistas",
+    "title": "A Natureza Intima",
+    "anoObra": "2017",
+    "alreadyRead": "false",
+    "imageUrl": "Imagens/Tecnicas_Mistas_2017_05.webp"
+},
+{
+    "id": "9",
+    "categoria":"Técnicas Mistas",
+    "title": "Atmosfera de Alfrodite II",
+    "anoObra": "2017",
+    "alreadyRead": "true",
+    "imageUrl": "Imagens/Tecnicas_Mistas_2017_04.webp"
+},
+{
+    "id": "10",
+    "categoria": "Técnicas Mistas",
+    "title": "Atmosfera de Alfrodite I",
+    "anoObra": "2017",
+    "alreadyRead": "false",
+    "imageUrl": "Imagens/Tecnicas_Mistas_2017_03.webp"
+},
+{
+    "id": "11",
+    "categoria": "Técnicas Mistas",
+    "title": "Exposição 'Matéria Híbrida'",
+    "anoObra": "2017",
+    "alreadyRead": "false",
+    "imageUrl": "Imagens/Tecnicas_Mistas_2017_02.webp"
+},
+{
+    "id": "12",
+    "categoria": "Técnicas Mistas",
+    "title": "Exposição 'Matéria Híbrida'",
+    "anoObra": "2017",
+    "alreadyRead": "true",
+    "imageUrl": "Imagens/Tecnicas_Mistas_2017_01.webp"
+},
+{
+    "id": "13",
+    "categoria":"Tridimensionais",
+    "title": "Diário da Alma",
+    "anoObra": "2018",
+    "alreadyRead": "true",
+    "imageUrl": "Imagens/Tridimensionais_DiariodaAlma_2018.jpg"
+},
+{
+    "id": "14",
+    "categoria":"Tridimensionais",
+    "title": "Empilhadas",
+    "anoObra": "2017",
+    "alreadyRead": "true",
+    "imageUrl": "Imagens/Tridimensionais_2017_02.webp"
+},
+{
+    "id": "15",
+    "categoria": "Tridimensionais",
+    "title": "Jardim secreto",
+    "anoObra": "2017",
+    "alreadyRead": "true",
+    "imageUrl": "Imagens/Tridimensionais_2017_03.webp"
+},
+{
+    "id": "16",
+    "categoria": "Tridimensionais",
+    "title": "Além do Imediato",
+    "anoObra": "2017",
+    "alreadyRead": "true",
+    "imageUrl": "Imagens/Tridimensionais_2017_04.webp"
+},
+{
+    "id": "17",
+    "categoria": "Tridimensionais",
+    "title": "Uma página",
+    "anoObra": "2016",
+    "alreadyRead": "true",
+    "imageUrl": "Imagens/Tridimensionais_2016_01.webp"
+},
+{
+    "id": "18",
+    "categoria": "Tridimensionais",
+    "title": "História para serem tocadas",
+    "anoObra": "2016",
+    "alreadyRead": "true",
+    "imageUrl": "Imagens/Tridimensionais_2016_02.webp"
+},
+{
+    "id": "19",
+    "categoria": "Tridimensionais",
+    "title": "História para serem tocadas",
+    "anoObra": "2016",
+    "alreadyRead": "true",
+    "imageUrl": "Imagens/Tridimensionais_2016_03.webp"
+},
+{
+    "id": "20",
+    "categoria":"Tridimensionais",
+    "title": "História para serem tocadas",
+    "anoObra": "2016",
+    "alreadyRead": "true",
+    "imageUrl": "Imagens/Tridimensionais_2016_04.webp"
+},
+{
+    "id": "21",
+    "categoria": "Tridimensionais",
+    "title": "História para serem tocadas",
+    "anoObra": "2016",
+    "alreadyRead": "true",
+    "imageUrl": "Imagens/Tridimensionais_2016_05.webp"
+},
+{
+    "id": "22",
+    "categoria": "Tridimensionais",
+    "title": "Umbilicais",
+    "anoObra": "2016",
+    "alreadyRead": "true",
+    "imageUrl": "Imagens/Tridimensionais_2016_06.webp"
+},
+{
+    "id": "23",
+    "categoria": "Tridimensionais",
+    "title": "Tábula de Sonhos",
+    "anoObra": "2015",
+    "alreadyRead": "true",
+    "imageUrl": "Imagens/Tridimensionais_2015_01.webp"
+},
+{
+    "id": "24",
+    "categoria": "Tridimensionais",
+    "title": "Cabeça Anônima",
+    "anoObra": "2014",
+    "alreadyRead": "true",
+    "imageUrl": "Imagens/Tridimensionais_2014_01.webp"
+},
+{
+    "id": "25",
+    "categoria": "Instalações",
+    "title": "Exposição 'Vestígios'",
+    "anoObra": "2019",
+    "alreadyRead": "true",
+    "imageUrl": "Imagens/Instalações_2019_01.webp"
+},
+
+{
+    "id": "26",
+    "categoria": "Instalações",
+    "title": "Irana",
+    "anoObra": "2017",
+    "alreadyRead": "true",
+    "imageUrl": "Imagens/Instalações_2017_01.webp"
+},
+
+{
+    "id": "27",
+    "categoria": "Instalações",
+    "title": "Ponte",
+    "anoObra": "2017",
+    "alreadyRead": "true",
+    "imageUrl": "Imagens/Instalações_2017_02.webp"
+},
+{
+    "id": "28",
+    "categoria": "Instalações",
+    "title": "Histórias nunca ditas",
+    "anoObra": "2017",
+    "alreadyRead": "true",
+    "imageUrl": "Imagens/Instalações_2017_03.webp"
+},
+{
+    "id": "29",
+    "categoria": "Intervenção Urbana",
+    "title": "Entre o Público e o Privado III",
+    "anoObra": "2014",
+    "alreadyRead": "true",
+    "imageUrl": "Imagens/Intervenção_Urbana_2014_01.webp"
+},
+{
+    "id": "30",
+    "categoria": "Intervenção Urbana",
+    "title": "Beuys - Caminhos e Paisagens",
+    "anoObra": "2014",
+    "alreadyRead": "true",
+    "imageUrl": "Imagens/Intervenção_Urbana_2014_04.webp"
+},
+{
+    "id": "31",
+    "categoria": "Intervenção Urbana",
+    "title": "Anônimas II",
+    "anoObra": "2013",
+    "alreadyRead": "true",
+    "imageUrl": "Imagens/Intervenção_Urbana_2013_01.webp"
+},
+{
+    "id": "32",
+    "categoria": "Gravuras",
+    "title": "Exposição 'Uma demão de Rosa'",
+    "anoObra": "2019",
+    "alreadyRead": "true",
+    "imageUrl": "Imagens/Gravuras_2019_01.webp"
+},
+{
+    "id": "33",
+    "categoria": "Gravuras",
+    "title": "Obras como Matriz",
+    "anoObra": "2019",
+    "alreadyRead": "true",
+    "imageUrl": "Imagens/Gravuras_2019_02.webp"
+},
+{
+    "id": "34",
+    "categoria": "Gravuras",
+    "title": "Matris como Obra",
+    "anoObra": "2019",
+    "alreadyRead": "true",
+    "imageUrl": "Imagens/Gravuras_2019_03.webp"
+},
+{
+    "id": "35",
+    "categoria": "Gravuras",
+    "title": "Duplo Sentido",
+    "anoObra": "2018",
+    "alreadyRead": "true",
+    "imageUrl": "Imagens/Gravuras_2018_01.webp"
+},
+
+{
+    "id": "36",
+    "categoria": "Gravura Digital",
+    "title": "Texturas Alfetivas",
+    "anoObra": "2019",
+    "alreadyRead": "true",
+    "imageUrl": "Imagens/Gravuras_Digital_2019_01.webp"
+},
+{
+    "id": "37",
+    "categoria": "Gravura Digital",
+    "title": "Silêncio Nublado",
+    "anoObra": "2019",
+    "alreadyRead": "true",
+    "imageUrl": "Imagens/Gravuras_Digital_2019_02.webp"
+},
+{
+    "id": "38",
+    "categoria": "Gravura Digital",
+    "title": "Relevo em Foco",
+    "anoObra": "2019",
+    "alreadyRead": "true",
+    "imageUrl": "Imagens/Gravuras_Digital_2019_03.webp"
+},
+{
+    "id": "39",
+    "categoria": "Gravura Digital",
+    "title": "Mergulho Azul",
+    "anoObra": "2019",
+    "alreadyRead": "true",
+    "imageUrl": "Imagens/Gravuras_Digital_2019_04.webp"
+},
+{
+    "id": "40",
+    "categoria": "Fotografias",
+    "title": "Estética do Silêncio",
+    "anoObra": "2014",
+    "alreadyRead": "true",
+    "imageUrl": "Imagens/Fotografia_2014_01.png"
+    
+},
+{
+    "id": "41",
+    "categoria": "Fotografias",
+    "title": "Portais do Olhar I",
+    "anoObra": "2014",
+    "alreadyRead": "true",
+    "imageUrl": "Imagens/Fotografia_2014_02.webp"
+},
+{
+    "id": "42",
+    "categoria": "Fotografias",
+    "title": "Portais do Olhar II",
+    "anoObra": "2014",
+    "alreadyRead": "true",
+    "imageUrl": "Imagens/Fotografia_2014_03.webp"
+},
+{
+    "id": "43",
+    "categoria": "Fotografias",
+    "title": "Como são os pensamentos I",
+    "anoObra": "2014",
+    "alreadyRead": "true",
+    "imageUrl": "Imagens/Fotografia_2014_04.webp"
+}
+]
